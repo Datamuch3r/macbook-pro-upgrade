@@ -3,6 +3,7 @@
 This project documents a full hardware upgrade of a MacBook Pro 13-inch (Late 2011) to improve performance and repurpose it as a cybersecurity lab machine.
 
 🔧 Upgrades Performed:
+
 ✅ 16GB RAM (2x8GB DDR3 1333MHz)
 ✅ 512GB 2.5" SATA SSD
 ✅ A1322 Battery Replacement
